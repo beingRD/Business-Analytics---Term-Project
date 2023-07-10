@@ -6,8 +6,8 @@ from scipy.stats import linregress
 data = pd.read_csv('dataset/cause_of_deaths.csv')
 
 # EDA - Investigating specific connections
-cause_1 = 'Meningitis'
-cause_2 = "Alzheimer's Disease and Other Dementias"
+cause_1 = 'Protein-Energy Malnutrition'
+cause_2 = 'Nutritional Deficiencies'
 
 # Scatter plot
 plt.scatter(data[cause_1], data[cause_2])
