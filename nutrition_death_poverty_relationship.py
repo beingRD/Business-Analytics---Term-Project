@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 # Load the datasets
 cause_of_deaths_data = pd.read_csv('dataset/cause_of_deaths.csv')
-poverty_data = pd.read_csv('dataset/MPI_national.csv')
+poverty_data = pd.read_csv('dataset/poverty_data.csv')
 
 # Merge the datasets based on the common identifier (ISO in MPI_national and Code in cause_of_deaths)
 merged_data = pd.merge(cause_of_deaths_data, poverty_data, left_on='Code', right_on='ISO')
