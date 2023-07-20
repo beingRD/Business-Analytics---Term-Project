@@ -1,4 +1,4 @@
-Entity,Code,Year,Deaths - Protein-energy malnutrition - Sex: Both - Age: 70+ years (Number),Deaths - Protein-energy malnutrition - Sex: Both - Age: 50-69 years (Number),Deaths - Protein-energy malnutrition - Sex: Both - Age: 15-49 years (Number),Deaths - Protein-energy malnutrition - Sex: Both - Age: 5-14 years (Number),Deaths - Protein-energy malnutrition - Sex: Both - Age: Under 5 (Number)
+Entity,Code,Year,Deaths Age: 70+ years,Deaths Age: 50-69 years,Deaths Age: 15-49 years,Deaths Age: 5-14 years,Deaths Age: Under 5
 Afghanistan,AFG,1990,16,45,131,99,1763
 Afghanistan,AFG,1991,16,46,143,108,1806
 Afghanistan,AFG,1992,17,48,165,124,2051
